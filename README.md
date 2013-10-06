@@ -1,14 +1,9 @@
 # ring-intro
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A Clojure training intro to Ring and the basic REPL usage
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Janne Haarni
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Apache License v2 http://www.apache.org/licenses/LICENSE-2.0.html
