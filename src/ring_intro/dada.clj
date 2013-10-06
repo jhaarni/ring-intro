@@ -1,4 +1,4 @@
-(ns enterpriceless.users
+(ns ring-intro.dada
     (:require [somnium.congomongo :as m]))
 
 (def conn
