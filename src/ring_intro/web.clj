@@ -7,7 +7,7 @@
     [hiccup.element :refer :all]))
 
 (defpartial layout [& content]
-  (html
+  (html5
     [:head
       [:title "Der Ring des Nibelungen"] 
       (include-css "http://yui.yahooapis.com/pure/0.3.0/base-min.css")
